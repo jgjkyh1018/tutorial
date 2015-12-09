@@ -5,5 +5,6 @@ public class GitPractice {
 		System.out.println("Hello World");
 		System.out.println("수지 ㅎㅇ");
 		System.out.println("영호 ㅎㅇ");
+		System.out.println("인영 ㅎㅇ");
 	}
 }
